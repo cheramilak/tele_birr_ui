@@ -4,8 +4,6 @@ The Tele Birr UI Clone is a mobil application developed to replicate the user in
 
 # Screenshots
 
-<img src="https://github.com/cheramilak/tele_birr_ui/screenshots/telebirr_superapp_ogin.jpg">
-
 ![](https://github.com/cheramilak/tele_birr_ui/blob/main/screenshots/telebirr_superapp_ogin.jpg?raw=true)
 
 # Technologies & Tools Used
