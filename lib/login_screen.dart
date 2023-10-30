@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:tele_birr_ui/dashboard_screen.dart';
-import 'package:tele_birr_ui/home_screen.dart';
 import 'package:tele_birr_ui/utils/MarqueeUtil.dart' as m;
 import 'package:tele_birr_ui/utils/util.dart';
 
